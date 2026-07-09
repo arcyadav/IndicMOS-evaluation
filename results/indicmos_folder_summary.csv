@@ -1,0 +1,12 @@
+folder,num_files,num_scored,avg_mos,min_mos,max_mos,failed
+old_edgetts_hindi_female,115,115,4.1167,3.2632,5.0000,0
+old_edgetts_kannada_female,115,115,3.6143,2.6834,4.8232,0
+old_edgetts_telugu_female,115,115,3.9905,2.5247,5.0000,0
+tts_english_female,116,116,4.0139,2.6278,5.0000,0
+tts_english_male,116,116,4.1457,1.8667,5.0000,0
+tts_hindi_female,118,118,4.0724,1.8346,5.0000,0
+tts_hindi_male,115,115,4.3293,2.9207,5.0000,0
+tts_kannada_female,115,115,3.6143,2.6834,4.8232,0
+tts_kannada_male,115,115,3.9355,1.9469,5.0000,0
+tts_telugu_female,117,117,3.7461,1.2494,5.0000,0
+tts_telugu_male,115,115,4.1339,2.5177,5.0000,0
